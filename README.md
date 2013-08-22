@@ -3,4 +3,4 @@
 This is the first application for
 [*Ruby on Rails Tutorial:learn Rails by
 Example*](http://github.com)
-by [Micharl ju](http://michhaaa.com)
+by [Sarik Siddiqui](http://michhaaa.com)
